@@ -57,7 +57,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
+# 可视化工具 moogodb compass
+# 参考自 https://zhuanlan.zhihu.com/p/267286129 
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
